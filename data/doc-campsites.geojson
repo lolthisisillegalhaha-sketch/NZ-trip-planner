@@ -1,4 +1,4048 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1207153,
+          5009087
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649697,
+          5419298
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1849966,
+          5874024
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1787221,
+          5471991
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1289053,
+          4946997
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1520990,
+          5372328
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1815389,
+          5987076
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1822809,
+          5990750
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1170715,
+          4890119
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1894453,
+          5770867
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1454436,
+          5127884
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1658996,
+          6046743
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1688019,
+          5439039
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604737,
+          5465252
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1832829,
+          5772402
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1770503,
+          5417757
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1637315,
+          6145779
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1347126,
+          5026815
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1960363,
+          5751447
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1668786,
+          5482500
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1605005,
+          5470980
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1249357,
+          4999947
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1310929,
+          5152778
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1712295,
+          6101150
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1837150,
+          5894401
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1771735,
+          5643868
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1174374,
+          4912227
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1673091,
+          5482182
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1946510,
+          5701341
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1919964,
+          5707639
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1946261,
+          5698561
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1779610,
+          5661629
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1672513,
+          5473012
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1816877,
+          5956498
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1816782,
+          5720961
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1586195,
+          5373191
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1345705,
+          5100086
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1672198,
+          6103223
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1833500,
+          5888100
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1955532,
+          5704909
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1887005,
+          5635062
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1192749,
+          4978212
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1563895,
+          5409253
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1161136,
+          4936474
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1605384,
+          5466435
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1886289,
+          5634867
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1593567,
+          5343345
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1672393,
+          5441455
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1553407,
+          5477714
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1524801,
+          5451055
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604369,
+          5465053
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1348583,
+          5092872
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1809334,
+          5636937
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1898597,
+          5657149
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1423949,
+          4989354
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1596410,
+          5306311
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1797721,
+          5451345
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1844643,
+          5664198
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1843053,
+          5852978
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1294651,
+          5081918
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1786151,
+          5603256
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1587370,
+          5371777
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1906824,
+          5757586
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1960070,
+          5745740
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1681490,
+          5456488
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1585236,
+          5372311
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1696308,
+          5446436
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1686520,
+          5438297
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1232578,
+          5056818
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1501603,
+          5239136
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1712067,
+          6101175
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603859,
+          5467058
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1836122,
+          5893347
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1857409,
+          5714199
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1824384,
+          5663948
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1952539,
+          5656825
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1785772,
+          5408882
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1228962,
+          5036824
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670933,
+          5469114
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1534066,
+          5473620
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1496812,
+          5221620
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1549689,
+          5472061
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1688387,
+          5418196
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1852229,
+          5562799
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1695784,
+          5441556
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1687749,
+          5439037
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1837720,
+          5898262
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1566590,
+          5373011
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1843943,
+          5662317
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1826915,
+          5945852
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1669199,
+          5452919
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1850564,
+          5562290
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1875985,
+          5684231
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1782324,
+          5798987
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1602482,
+          5462421
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1205251,
+          4996355
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1538960,
+          5264062
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772624,
+          5658806
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647731,
+          5427661
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1541459,
+          5316142
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1951583,
+          5712311
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1541742,
+          5473616
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1817029,
+          5675275
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1430581,
+          5077608
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1664668,
+          5454821
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1226496,
+          5008420
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1760355,
+          5958612
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1428348,
+          5259848
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1546008,
+          5217475
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1211142,
+          5016992
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1783561,
+          5681984
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1770960,
+          5655460
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1137277,
+          4947582
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1322276,
+          5044436
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1246874,
+          5060516
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1936037,
+          5650062
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1786004,
+          5687522
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1365787,
+          5155344
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1708285,
+          5440490
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1291661,
+          5101825
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1841200,
+          5897228
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1879075,
+          5683040
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1536021,
+          5311048
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1702842,
+          5448159
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1220742,
+          5036428
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1900476,
+          5770190
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1835120,
+          5892542
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1552805,
+          5472786
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1836778,
+          5727610
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1693786,
+          5441344
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1249238,
+          4995853
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1950504,
+          5703874
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1622348,
+          5340738
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1838900,
+          5894200
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1712715,
+          6102119
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1823414,
+          5734345
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1360340,
+          5071785
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1353948,
+          5037276
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1449134,
+          5258774
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1452060,
+          5126184
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1230503,
+          4784591
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1844270,
+          5664178
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1764320,
+          5649965
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1426406,
+          4969749
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1232511,
+          5023883
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1601314,
+          5477980
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603169,
+          5463208
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2002438,
+          5771214
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1833665,
+          5888280
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1779053,
+          5669059
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1822148,
+          5579882
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1900515,
+          5761523
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1535016,
+          5269560
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1765211,
+          5655602
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1905800,
+          5756930
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1567688,
+          5446880
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1579567,
+          6187667
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1600414,
+          5481379
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1984926,
+          5771431
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1269866,
+          5023335
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1687530,
+          5417097
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1545526,
+          5473191
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1732552,
+          6071381
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1831393,
+          5896813
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1309901,
+          5120448
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1812555,
+          5994397
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1345400,
+          5082890
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1579151,
+          5362601
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1471157,
+          5344250
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1760876,
+          5420387
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1215601,
+          5024665
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1170232,
+          4958048
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1206545,
+          5004970
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1446237,
+          5273472
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1705169,
+          5452019
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772165,
+          5929222
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1251102,
+          5007707
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1183256,
+          4958265
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1600360,
+          5483142
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1234280,
+          5036440
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1693282,
+          5437935
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1834095,
+          5890769
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1599494,
+          5484453
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1435397,
+          5067886
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1549601,
+          5292677
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1920575,
+          5667370
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1831328,
+          5656645
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1497922,
+          5239772
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1814763,
+          5479438
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1689288,
+          5438392
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1819285,
+          5657725
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603926,
+          5473563
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1578547,
+          5326704
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1207940,
+          5013084
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1353678,
+          5164561
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1689688,
+          5437892
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1597870,
+          5484718
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1658993,
+          5410100
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1386092,
+          5015709
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1917500,
+          5661107
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1673492,
+          5460587
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2064734,
+          5754983
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1873335,
+          5682043
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1689517,
+          5420832
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1689988,
+          5430844
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1875074,
+          5683537
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1809781,
+          5959816
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1952884,
+          5710637
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1303139,
+          5103514
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1213387,
+          4814685
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1678831,
+          5430659
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604269,
+          5470462
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1961155,
+          5702377
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1500236,
+          5332147
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1302484,
+          5072357
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1584005,
+          5173820
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1226751,
+          5018182
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1776875,
+          5673069
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772810,
+          5666968
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1703485,
+          5441690
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1814136,
+          5960540
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772695,
+          5925165
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1946808,
+          5696866
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604982,
+          5466005
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1761696,
+          5421415
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1345322,
+          5111251
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1728210,
+          6077006
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1823001,
+          5994150
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1218263,
+          5031911
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1568176,
+          5384128
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1407332,
+          5229783
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1893280,
+          5659790
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1723562,
+          6085659
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1813334,
+          5660336
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1958798,
+          5698859
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1983591,
+          5752821
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1565231,
+          5412084
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1676575,
+          5478100
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1924364,
+          5713965
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1677814,
+          5430506
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1836676,
+          5893933
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1482726,
+          5244772
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1573950,
+          6189275
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1340242,
+          4839816
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1672792,
+          5436293
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1550437,
+          5305098
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1836197,
+          5893822
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1436530,
+          5110157
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1254805,
+          5066108
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1196672,
+          4809534
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1681497,
+          5439689
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1216530,
+          5019820
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1343216,
+          5188984
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1665651,
+          5444286
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1590897,
+          5467579
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1368132,
+          5101069
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1941081,
+          5714982
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1602084,
+          5462518
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1585660,
+          5372655
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1374926,
+          5202284
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1600365,
+          5480904
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1678819,
+          5432812
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1731699,
+          6022410
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1832374,
+          5662157
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1642638,
+          5405488
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1525152,
+          5462315
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1769219,
+          5662398
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1501021,
+          5228474
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1225142,
+          4801244
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1460733,
+          5138885
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1783719,
+          5792813
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1700179,
+          5380002
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670897,
+          5478603
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1817893,
+          5997238
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1808450,
+          5955320
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1639664,
+          6108124
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1524647,
+          5448696
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1775547,
+          5659269
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1896496,
+          5636374
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1601589,
+          5476253
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1220469,
+          4795790
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1671592,
+          5431994
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1330717,
+          4849046
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1778879,
+          5796435
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1808889,
+          5468642
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1775215,
+          5634079
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1686677,
+          5451776
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1572768,
+          6181625
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1756303,
+          5430941
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1934369,
+          5719581
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1203952,
+          4993449
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1930738,
+          5800119
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1258681,
+          5025408
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1607538,
+          6157437
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1843345,
+          5889917
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1681534,
+          5436076
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1221497,
+          4975941
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1243308,
+          5056266
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1835607,
+          5893149
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1801046,
+          5458932
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1662291,
+          5447573
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1701785,
+          5435291
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1485015,
+          5237994
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1769629,
+          5650103
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1674292,
+          5448690
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1524934,
+          5455943
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1824828,
+          5983154
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1906838,
+          5767854
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1779664,
+          5657718
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603992,
+          5464346
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1587447,
+          6190362
+        ]
+      },
+      "properties": {
+        "name": "DOC Campsite"
+      }
+    }
+  ]
 }
