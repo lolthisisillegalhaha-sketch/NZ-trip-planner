@@ -52,16 +52,35 @@ async function loadCoords() {
 async function loadSheet() {
   const url = document.getElementById('sheetUrl').value || cfg.DEFAULT_SHEET_CSV;
   if (!url) { setStatus('⚠️ Provide a published Google Sheet CSV URL'); return; }
+  if (/\/pubhtml/.test(url)) {
+    setStatus('⚠️ That looks like a "pubhtml" link (a webpage), not CSV data. Change "/pubhtml" to "/pub" and add "&output=csv" to the end of the URL.');
+    return;
+  }
   setStatus('Fetching sheet…');
   let csv;
   try {
-    csv = await (await fetch(url)).text();
+    const res = await fetch(url);
+    if (!res.ok) {
+      setStatus(`❌ Sheet fetch failed (HTTP ${res.status}) — check the URL is published and publicly viewable`);
+      return;
+    }
+    csv = await res.text();
   } catch (e) {
     setStatus('❌ Could not fetch sheet — check the URL and your connection');
     return;
   }
+  // Sanity check: a real CSV export starts with plain text/commas; Google's HTML
+  // pages (or an unpublished/login-walled sheet) come back as an <!doctype html> page.
+  if (/^\s*<(!doctype|html)/i.test(csv)) {
+    setStatus('❌ The URL returned a webpage, not CSV data. Make sure the link ends in "&output=csv" and that the sheet is published (not just shared).');
+    return;
+  }
   days = window.ItineraryParser.parseCsv(csv);
   const totalStops = days.reduce((s, d) => s + d.stops.length, 0);
+  if (days.length === 0) {
+    setStatus('⚠️ Sheet loaded but no "DAY N" headers were found in column A — check you published the "Full Itinerary" tab specifically.');
+    return;
+  }
   setStatus(`Parsed ${days.length} days, ${totalStops} stops. Matching coordinates…`);
 
   const coords = await loadCoords();
@@ -251,8 +270,19 @@ async function loadDocCampsites() {
     }),
     onEachFeature: (feature, layer) => {
       const p = feature.properties || {};
-      const name = p.name || p.Name || p.NAME || 'DOC Campsite';
-      layer.bindPopup(`<b>⛺ ${escapeHtml(name)}</b>`);
+      const name = p.name || 'DOC Campsite';
+      const lines = [`<b>⛺ ${escapeHtml(name)}</b>`];
+      if (p.place) lines.push(escapeHtml(p.place));
+      const tags = [p.category, p.free === 'Yes' ? 'Free' : null, p.bookable === 'Yes' ? 'Bookable' : null].filter(Boolean);
+      if (tags.length) lines.push(escapeHtml(tags.join(' · ')));
+      const sites = [];
+      if (p.unpoweredSites && +p.unpoweredSites > 0) sites.push(`${p.unpoweredSites} unpowered`);
+      if (p.poweredSites && +p.poweredSites > 0) sites.push(`${p.poweredSites} powered`);
+      if (sites.length) lines.push(escapeHtml(sites.join(', ') + ' sites'));
+      if (p.facilities) lines.push(`<small>${escapeHtml(p.facilities)}</small>`);
+      if (p.dogsAllowed) lines.push(`<small>🐕 ${escapeHtml(p.dogsAllowed)}</small>`);
+      if (p.url) lines.push(`<a href="${encodeURI(p.url)}" target="_blank" rel="noopener">More info ↗</a>`);
+      layer.bindPopup(lines.join('<br>'), { maxWidth: 260 });
     }
   });
   layer.addTo(map);
