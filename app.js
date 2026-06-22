@@ -131,16 +131,20 @@ function renderSidebar() {
 }
 
 // --- Map render ---
+const DAY_COLORS = ['#e6194b', '#3cb44b', '#4363d8', '#f58231', '#911eb4', '#42d4f4', '#bfef45', '#f032e6'];
+let renderGeneration = 0; // bumped on every renderMap() call; guards against stale async route draws
+
 function renderMap() {
   stopMarkers.forEach(m => map.removeLayer(m)); stopMarkers = [];
   routeLines.forEach(l => map.removeLayer(l));  routeLines = [];
+  const myGeneration = ++renderGeneration;
 
   const sel = selectedDays();
-  const colors = ['#e6194b', '#3cb44b', '#4363d8', '#f58231', '#911eb4', '#42d4f4', '#bfef45', '#f032e6'];
   const bounds = [];
+  const routeJobs = [];
 
   sel.forEach((day, di) => {
-    const color = colors[di % colors.length];
+    const color = DAY_COLORS[di % DAY_COLORS.length];
     const pts = day.stops.filter(s => s.lat);
     pts.forEach(s => {
       const style = styleFor(s.category);
@@ -153,12 +157,53 @@ function renderMap() {
       bounds.push([s.lat, s.lng]);
     });
     if (pts.length > 1) {
-      const line = L.polyline(pts.map(p => [p.lat, p.lng]),
+      // Draw a straight dashed placeholder immediately (instant, works offline),
+      // then queue a request to replace it with the real road-following route.
+      const placeholder = L.polyline(pts.map(p => [p.lat, p.lng]),
         { color, weight: 3, opacity: 0.6, dashArray: '6,6' }).addTo(map);
-      routeLines.push(line);
+      routeLines.push(placeholder);
+      routeJobs.push({ day, pts, color, placeholder });
     }
   });
   if (bounds.length) map.fitBounds(bounds, { padding: [40, 40] });
+
+  // Sequential queue (≈1 req/sec) so selecting "All days" (up to ~19 legs)
+  // doesn't fire a burst of simultaneous requests at OSRM's shared free server.
+  runRouteQueue(routeJobs, myGeneration);
+}
+
+async function runRouteQueue(jobs, myGeneration) {
+  for (const job of jobs) {
+    if (myGeneration !== renderGeneration) return; // user changed the day filter — abandon stale queue
+    await drawRoadRoute(job.day, job.pts, job.color, job.placeholder, myGeneration);
+    if (jobs.length > 1) await new Promise(r => setTimeout(r, 1100));
+  }
+}
+
+// Fetches the real driving route (following actual roads) for one day's
+// stops in order, and swaps it in for the straight dashed placeholder line.
+// Falls back to leaving the placeholder in place if OSRM is unreachable.
+async function drawRoadRoute(day, pts, color, placeholder, myGeneration) {
+  const coords = pts.map(p => `${p.lng},${p.lat}`).join(';');
+  const url = `https://router.project-osrm.org/route/v1/driving/${coords}?overview=full&geometries=geojson`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) return;
+    const j = await res.json();
+    const geom = j.routes?.[0]?.geometry;
+    if (!geom) return;
+    if (myGeneration !== renderGeneration) return; // stale — a newer render has since happened
+    map.removeLayer(placeholder);
+    const idx = routeLines.indexOf(placeholder);
+    if (idx >= 0) routeLines.splice(idx, 1);
+    const latlngs = geom.coordinates.map(([lng, lat]) => [lat, lng]);
+    const roadLine = L.polyline(latlngs, { color, weight: 4, opacity: 0.85 })
+      .bindPopup(`Day ${day.dayNum} route`)
+      .addTo(map);
+    routeLines.push(roadLine);
+  } catch (e) {
+    // no signal / OSRM unreachable — keep the straight dashed placeholder
+  }
 }
 
 // --- OSRM driving-time matrix (free public demo server), with 60 km/h floor ---
